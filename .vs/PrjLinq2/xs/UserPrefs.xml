@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{16EF48E0-007F-4A85-9E7B-04D03BA0FCA4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrjLinq2/Entities/Category.cs">
+    <Files>
+      <File FileName="PrjLinq2/Program.cs" Line="1" Column="1" />
+      <File FileName="PrjLinq2/Entities/Product.cs" Line="1" Column="1" />
+      <File FileName="PrjLinq2/Entities/Category.cs" Line="6" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PrjLinq2" expanded="True">
+            <Node name="PrjLinq2" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="Category.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PrjLinq2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

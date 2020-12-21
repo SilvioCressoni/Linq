@@ -1,0 +1,10 @@
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/PrjLinq2/PrjLinq2/PrjLinq2/bin/Debug/netcoreapp3.1/PrjLinq2.deps.json
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/PrjLinq2/PrjLinq2/PrjLinq2/bin/Debug/netcoreapp3.1/PrjLinq2.runtimeconfig.json
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/PrjLinq2/PrjLinq2/PrjLinq2/bin/Debug/netcoreapp3.1/PrjLinq2.runtimeconfig.dev.json
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/PrjLinq2/PrjLinq2/PrjLinq2/bin/Debug/netcoreapp3.1/PrjLinq2.dll
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/PrjLinq2/PrjLinq2/PrjLinq2/bin/Debug/netcoreapp3.1/PrjLinq2.pdb
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/PrjLinq2/PrjLinq2/PrjLinq2/obj/Debug/netcoreapp3.1/PrjLinq2.csprojAssemblyReference.cache
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/PrjLinq2/PrjLinq2/PrjLinq2/obj/Debug/netcoreapp3.1/PrjLinq2.AssemblyInfoInputs.cache
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/PrjLinq2/PrjLinq2/PrjLinq2/obj/Debug/netcoreapp3.1/PrjLinq2.AssemblyInfo.cs
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/PrjLinq2/PrjLinq2/PrjLinq2/obj/Debug/netcoreapp3.1/PrjLinq2.dll
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/PrjLinq2/PrjLinq2/PrjLinq2/obj/Debug/netcoreapp3.1/PrjLinq2.pdb
