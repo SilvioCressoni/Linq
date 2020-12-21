@@ -59,7 +59,8 @@ namespace PrjLinq2
             var result3 = list.Where(p => p.Category.Tier == 2).OrderBy(p => p.Price).ThenBy(p => p.Name); //primeiro ordena por Prince e depois por Name
             Print("result3 : ", result3);
 
-            
+
+            //Skip 2 datas and take the first 4.
             var result4 = result3.Skip(2).Take(4);
             Print("result4 : ", result4);
 
