@@ -44,7 +44,12 @@ namespace PrjLinq2
 
             Console.WriteLine("Tier equal as 1 and Prices equal ");
 
-            var result = list.Where(p => p.Price <= 900.00 && p.Category.Tier == 1);
+            //var result = list.Where(p => p.Price <= 900.00 && p.Category.Tier == 1);
+            var result =
+                from p in list
+                where p.Price <= 900.00 && p.Category.Tier == 1
+                select p;
+
             Print("Price less than 900.00 and Tier equal 1", result);
 
             Console.WriteLine("All products of category utilities ");
